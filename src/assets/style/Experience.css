@@ -1,0 +1,37 @@
+.experience {
+  padding: 2rem;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  height: 100vh;
+}
+
+.experience h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #333;
+}
+
+.experience .MuiBox-root {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+.experience .MuiTypography-h5 {
+  color: #007BFF;
+  margin-bottom: 0.5rem;
+}
+
+.experience .MuiTypography-subtitle1 {
+  color: #555;
+  margin-bottom: 1rem;
+}
+
+.experience .MuiList-root {
+  padding-left: 1rem;
+}
+
+.experience .MuiListItem-root {
+  padding-left: 0;
+}

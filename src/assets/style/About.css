@@ -1,0 +1,26 @@
+.about {
+  padding: 2rem;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  text-align: center;
+  height: 100vh;
+}
+
+.about .profile-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1rem;
+}
+
+.about .name {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.about .title {
+  font-size: 1.2rem;
+  color: #777;
+}
