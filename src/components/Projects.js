@@ -30,7 +30,12 @@ const projects = [
     demoLink: 'https://react-filmcuy.vercel.app/',
     codeLink: '#'
   },
-  // Tambahkan proyek lainnya di sini
+  {
+    title: 'Show Room',
+    description: 'Show Room Mobil Material UI',
+    image: 'https://raw.githubusercontent.com/idincodingweb/packgambar/refs/heads/main/Porfolio/Screenshot_20241209_152143.jpg',
+    demoLink: 'https://ah-showroom.vercel.app/',
+    codeLink: '#'
 ];
 
 const Projects = () => {
